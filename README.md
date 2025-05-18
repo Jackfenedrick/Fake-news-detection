@@ -1,1 +1,1 @@
-# Fake-news-detection
+# Fake-news-detection powered by Natural language processing
